@@ -171,3 +171,5 @@ The `dataset/` directory contains 120 images across:
 - **Categories:** creature, architecture, scenery
 
 Each image is paired with a JSON file containing `cycle` and `long_chain` prompts.
+
+Dataset will be released on Huggingface due to github repo size limitations.
